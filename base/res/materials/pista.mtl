@@ -1,0 +1,9 @@
+newmtl pista
+Ns 0.06
+Ni 1.00
+illum 2
+Ka  0.15 0.15 0.15
+Kd 0.50 0.50 0.50
+Ks 1.00 1.00 1.00
+map_Ka pista02.jpg
+map_Kd pista02.jpg
